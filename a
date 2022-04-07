@@ -1,0 +1,72 @@
+[33mcommit cc9446f4629e0f726fddaf6afa35623e5ca0d546[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Narender1903 <narender1903@gmail.com>
+Date:   Wed Apr 6 12:57:02 2022 +0530
+
+    sfd
+
+[1mdiff --git a/untracked.txt b/untracked.txt[m
+[1mindex 075b117..9b153b2 100644[m
+[1m--- a/untracked.txt[m
+[1m+++ b/untracked.txt[m
+[36m@@ -1 +1 @@[m
+[31m-sfds[m
+\ No newline at end of file[m
+[32m+[m[32msfdsdfdffd[m
+\ No newline at end of file[m
+
+[33mcommit a9b4203337153c08345c702c848c2dcc63f07cf2[m
+Author: Narender1903 <narender1903@gmail.com>
+Date:   Wed Apr 6 12:46:00 2022 +0530
+
+    test
+
+[1mdiff --git a/new.txt b/new.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..075b117[m
+[1m--- /dev/null[m
+[1m+++ b/new.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32msfds[m
+\ No newline at end of file[m
+[1mdiff --git a/untracked.txt b/untracked.txt[m
+[1mindex e69de29..075b117 100644[m
+[1m--- a/untracked.txt[m
+[1m+++ b/untracked.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32msfds[m
+\ No newline at end of file[m
+
+[33mcommit 420f871a818cb6cc91068cd07d945105d540781d[m
+Author: Narender1903 <narender1903@gmail.com>
+Date:   Wed Apr 6 12:25:39 2022 +0530
+
+    file test
+
+[1mdiff --git a/untracked.txt b/untracked.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit 4c53b149445833d48902b156cc8f4ade43357102[m
+Author: Narender1903 <narender1903@gmail.com>
+Date:   Wed Apr 6 07:34:31 2022 +0530
+
+    test
+
+[1mdiff --git a/test.txt b/test.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..db6427e[m
+[1m--- /dev/null[m
+[1m+++ b/test.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mthi si sis test[m
+\ No newline at end of file[m
+
+[33mcommit 9c869e92090cbed6bb73f8f4a7cd2028b7f8d532[m
+Author: Narender1903 <narender1903@gmail.com>
+Date:   Wed Apr 6 07:29:32 2022 +0530
+
+    first commit
+
+[1mdiff --git a/dsfda b/dsfda[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
